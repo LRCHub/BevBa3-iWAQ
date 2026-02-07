@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "echoes of fading girl",
+  "base_artist": "揺れるは幽霊",
+  "createdAt": "2026-02-07T21:54:47.311456Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "echoes of fading girl",
+      "artist": "揺れるは幽霊",
+      "has_synced": false,
+      "path": "select/pl_01_echoes_of_fading_girl_揺れるは幽霊.txt"
+    }
+  ]
+}
